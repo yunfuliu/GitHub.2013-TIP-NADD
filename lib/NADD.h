@@ -1,11 +1,16 @@
 //////////////////////////////////////////////////////////////////////////
 //
-// SOURCE CODE: https://sites.google.com/site/yunfuliu/2010/2012nctdfddh
+// SOURCE CODE: 
+//	https://sites.google.com/site/yunfuliu/2010/2012nctdfddh
 //
-// CURRENT VERSION: v2.11
+// CURRENT VERSION: 
+//	v2.11
 //
 // CORRESPONDING ARTICLE:
-//		Yun-Fu Liu and Jing-Ming Guo, "New class tiling design for dot-diffused halftoning," IEEE Trans. Image Processing, vol. 22, no. 3, pp. 1199-1208, March 2013.
+//	Yun-Fu Liu and Jing-Ming Guo, "New class tiling design for dot-diffused halftoning," IEEE Trans. Image Processing, vol. 22, no. 3, pp. 1199-1208, March 2013.
+//
+// CONTACT INFO:
+//	Yun-Fu Liu (yunfuliu@gmail.com)
 //
 //////////////////////////////////////////////////////////////////////////
 #include <iostream>
