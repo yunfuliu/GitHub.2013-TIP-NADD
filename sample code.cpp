@@ -4,17 +4,16 @@ using namespace	cv;
 
 void main(){
 
-/*	//////////////////////////////////////////////////////////////////////////
-	//                    case01: ct generation and save
+
 	//////////////////////////////////////////////////////////////////////////
-	CCT	cct;
-	cct.generation(512,512);	// assign the size of ct
-	cct.save("ct512.map");
-*/
+	///// case01: ct generation and save
+// 	CCT	cct;
+// 	cct.generation(512,512);	// assign the size of ct
+// 	cct.save("ct512.map");
+
 	
 	//////////////////////////////////////////////////////////////////////////
-	//              case02: load ct and perform nadd halftoning
-	//////////////////////////////////////////////////////////////////////////
+	///// case02: load ct and perform nadd halftoning
 	// load .map file
 	Mat	src,dst;
 	CCT	cct;
