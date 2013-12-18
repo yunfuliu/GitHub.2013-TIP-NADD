@@ -123,6 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="lib\NADD.cpp" />
     <ClCompile Include="sample code.cpp" />
   </ItemGroup>
   <ItemGroup>

@@ -1,11 +1,5 @@
 #include "lib/NADD.h"
 
-#ifdef _DEBUG
-#pragma comment(lib,"lib/vc10/nadd_vc10x64v2.11d.lib")
-#else
-#pragma comment(lib,"lib/vc10/nadd_vc10x64v2.11.lib")
-#endif
-
 using namespace	cv;
 
 void main(){
