@@ -6,6 +6,9 @@ Yun-Fu Liu and Jing-Ming Guo, "New class tiling design for dot-diffused halftoni
 
 [GitBub.2013-TIP-NADD] is implemented in C++ with OpenCV v2.4.7.
 
+The latest version can be found at:
+https://sites.google.com/site/yunfuliu/2010/2012nctdfddh
+
 How to run:
 	If you are using the Microsoft Visual Studio 2010 as your IDE, then you can simply run prog.sln with all the completed settings for corresponding results. 
 	Otherwise, the source code "sample code.cpp" and both "lib/nadd.cpp" and "lib/nadd.h" are provided for various platforms. 
